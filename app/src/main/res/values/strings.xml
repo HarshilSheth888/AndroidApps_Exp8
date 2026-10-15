@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Colourful Web Explorer</string>
+    <string name="app_subtitle">Fast &amp; Vibrant Android Browser</string>
+
+    <!-- Toolbar & Menu Items -->
+    <string name="menu_quick_sites">Quick Websites</string>
+    <string name="menu_google">Google Search</string>
+    <string name="menu_wikipedia">Wikipedia</string>
+    <string name="menu_android_dev">Android Developers</string>
+    <string name="menu_kotlin">Kotlin Language</string>
+    <string name="menu_github">GitHub Explorer</string>
+    <string name="menu_news">Tech News</string>
+
+    <string name="menu_color_themes">Color Themes</string>
+    <string name="theme_sunset">Sunset Glow (Orange/Pink)</string>
+    <string name="theme_ocean">Ocean Wave (Cyan/Blue)</string>
+    <string name="theme_neon">Neon Cyberpunk (Purple/Violet)</string>
+    <string name="theme_mint">Emerald Garden (Mint/Teal)</string>
+    <string name="theme_berry">Berry Passion (Magenta/Indigo)</string>
+
+    <string name="menu_page_tools">Page Tools</string>
+    <string name="menu_reload">Reload Page</string>
+    <string name="menu_desktop_view">Desktop View</string>
+    <string name="menu_copy_url">Copy Page URL</string>
+    <string name="menu_share_url">Share Page URL</string>
+    <string name="menu_bookmark">Add to Bookmarks</string>
+
+    <string name="menu_more_options">More Actions</string>
+    <string name="menu_clear_cache">Clear Web Cache</string>
+    <string name="menu_clear_history">Clear Search History</string>
+    <string name="menu_about">About App</string>
+
+    <!-- Navigation & Search Bar -->
+    <string name="hint_enter_url">Search or type web address&#8230;</string>
+    <string name="popup_go_home">Go Home (Google)</string>
+    <string name="btn_go">GO</string>
+
+    <!-- Context Menu Options -->
+    <string name="context_open_link">Open Web Link</string>
+    <string name="context_copy_link">Copy Link Address</string>
+    <string name="context_share_link">Share Link</string>
+    <string name="context_delete_bookmark">Remove Bookmark</string>
+
+    <!-- Offline / Error View -->
+    <string name="error_title">Unable to Load Web Page</string>
+    <string name="error_message">Please check your internet connection or URL and try again.</string>
+    <string name="btn_retry">Try Again</string>
+
+    <!-- Dialogs & Toast Messages -->
+    <string name="desc_back">Back</string>
+    <string name="desc_forward">Forward</string>
+    <string name="desc_refresh">Refresh</string>
+    <string name="desc_clear">Clear</string>
+    <string name="desc_popup">More Options</string>
+    <string name="desc_error_icon">Error Icon</string>
+    <string name="about_dialog_title">About Colourful Web Explorer</string>
+    <string name="about_dialog_message">This Android App demonstrates: \n\n• Options Menu, Context Menu, &amp; Popup Menu\n• Integrated Android WebView with JavaScript\n• Custom Theme Palette Switcher\n• Rich Android UI Controls</string>
+    <string name="toast_cache_cleared">Web cache and browsing data cleared!</string>
+    <string name="toast_url_copied">Page URL copied to clipboard!</string>
+    <string name="toast_bookmark_added">Bookmark saved to quick links!</string>
+</resources>

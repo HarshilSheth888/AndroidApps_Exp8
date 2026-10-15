@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Quick Websites Submenu -->
+    <item
+        android:id="@+id/action_quick_sites"
+        android:icon="@drawable/ic_web"
+        android:title="@string/menu_quick_sites"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/site_google"
+                android:icon="@drawable/ic_search"
+                android:title="@string/menu_google" />
+            <item
+                android:id="@+id/site_wikipedia"
+                android:icon="@drawable/ic_web"
+                android:title="@string/menu_wikipedia" />
+            <item
+                android:id="@+id/site_android_dev"
+                android:icon="@drawable/ic_web"
+                android:title="@string/menu_android_dev" />
+            <item
+                android:id="@+id/site_kotlin"
+                android:icon="@drawable/ic_web"
+                android:title="@string/menu_kotlin" />
+            <item
+                android:id="@+id/site_github"
+                android:icon="@drawable/ic_web"
+                android:title="@string/menu_github" />
+            <item
+                android:id="@+id/site_news"
+                android:icon="@drawable/ic_web"
+                android:title="@string/menu_news" />
+        </menu>
+    </item>
+
+    <!-- Color Themes Submenu -->
+    <item
+        android:id="@+id/action_color_themes"
+        android:icon="@drawable/ic_palette"
+        android:title="@string/menu_color_themes"
+        app:showAsAction="ifRoom">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/theme_sunset"
+                    android:checked="true"
+                    android:title="@string/theme_sunset" />
+                <item
+                    android:id="@+id/theme_ocean"
+                    android:title="@string/theme_ocean" />
+                <item
+                    android:id="@+id/theme_neon"
+                    android:title="@string/theme_neon" />
+                <item
+                    android:id="@+id/theme_mint"
+                    android:title="@string/theme_mint" />
+                <item
+                    android:id="@+id/theme_berry"
+                    android:title="@string/theme_berry" />
+            </group>
+        </menu>
+    </item>
+
+    <!-- Page Tools -->
+    <item
+        android:id="@+id/action_reload"
+        android:icon="@drawable/ic_refresh"
+        android:title="@string/menu_reload"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_desktop_view"
+        android:icon="@drawable/ic_desktop"
+        android:title="@string/menu_desktop_view"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_copy_url"
+        android:icon="@drawable/ic_copy"
+        android:title="@string/menu_copy_url"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_share_url"
+        android:icon="@drawable/ic_share"
+        android:title="@string/menu_share_url"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_add_bookmark"
+        android:icon="@drawable/ic_bookmark"
+        android:title="@string/menu_bookmark"
+        app:showAsAction="never" />
+
+    <!-- More Options -->
+    <item
+        android:id="@+id/action_clear_cache"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/menu_clear_cache"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_info"
+        android:title="@string/menu_about"
+        app:showAsAction="never" />
+
+</menu>

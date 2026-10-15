@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popup_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/popup_go_home" />
+    <item
+        android:id="@+id/popup_reload"
+        android:icon="@drawable/ic_refresh"
+        android:title="@string/menu_reload" />
+    <item
+        android:id="@+id/popup_desktop"
+        android:icon="@drawable/ic_desktop"
+        android:title="@string/menu_desktop_view" />
+    <item
+        android:id="@+id/popup_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/menu_share_url" />
+    <item
+        android:id="@+id/popup_clear_history"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/menu_clear_history" />
+</menu>
