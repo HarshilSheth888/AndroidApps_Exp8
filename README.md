@@ -119,7 +119,7 @@ The app opens with the quick-link chips and the address bar at the top and a web
 - **Result:** Pass
 - **Screenshot:** 
 
-<img width="1080" height="2340" alt="1000199670" src="https://github.com/user-attachments/assets/080ca2e8-228a-41bd-aab3-c861cd961d4a" />
+<img width="300" height="650" alt="1000199670" src="https://github.com/user-attachments/assets/080ca2e8-228a-41bd-aab3-c861cd961d4a" />
 
 
 
@@ -130,7 +130,7 @@ The app opens with the quick-link chips and the address bar at the top and a web
 - **Result:** Pass
 - **Screenshot:** 
 
-<img width="1080" height="2340" alt="1000199672" src="https://github.com/user-attachments/assets/8c5cfe4e-a8a8-4e39-94fb-55776f9e950c" />
+<img width="300" height="650" alt="1000199672" src="https://github.com/user-attachments/assets/8c5cfe4e-a8a8-4e39-94fb-55776f9e950c" />
 
 
 
