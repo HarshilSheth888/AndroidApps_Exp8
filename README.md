@@ -104,7 +104,7 @@ androidapps_exp8/
 
 
 
-<img width="1080" height="2340" alt="1000199668" src="https://github.com/user-attachments/assets/21a2faac-0f3e-49f3-afc7-658225938aa4" />
+<img width="300" height="652" alt="1000199668" src="https://github.com/user-attachments/assets/21a2faac-0f3e-49f3-afc7-658225938aa4" />
 
 
 
